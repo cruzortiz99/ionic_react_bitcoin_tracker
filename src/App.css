@@ -1,0 +1,30 @@
+.bitcoin__logo {
+  color: white;
+  height: 150px;
+  width: 100%;
+}
+
+ion-content {
+  --background: #3b43be;
+}
+.bitcoin__header {
+  background-color: #29308f;
+  min-height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bitcoin_disclaimer_loading {
+  height: 50px;
+  width: 80%;
+}
+.bitcoin_disclaimer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bitcoin__disclaimer_text {
+  color: rgba(255, 255, 255, 0.75);
+  text-align: center;
+}
